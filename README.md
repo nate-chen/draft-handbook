@@ -1,1 +1,1 @@
-# draft-handbook
+This is a test.
